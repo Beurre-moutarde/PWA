@@ -14,31 +14,29 @@
 
 This node.js program uses the Express.js, mutiple webpacks and service workers to create a persistant web application that can also be downloaded as an app on the user's machine for use while offline
 
-![an gif of a coding program with grey theme demonstrating a text-editor web application with persistant features that can be downloaded as an app](client/src/images/JATE.gif)
-
 ## Usage Instructions
 
 ### Locally hosting
 
-Be sure your package.json files have been appropriately copied over, then enter <code>npm i</code> to install dependencies. Open your terminal in the root directory of this project and the enter <code>npm run start</code> command to start up the backend and serve the client.
+To ensure that all the necessary dependencies are installed, make sure that the package.json files have been properly copied over. Once this is done, open your terminal in the project's main directory and enter the command 'npm i' to install all the required dependencies.
 
-When this command is entered, the html, css, and javascript files will be bundled using webpack, along with a service worker and manifest file.
+After the dependencies have been installed, you can start the backend and serve the client by entering the command 'npm run start' in the terminal. This will initiate the bundling process of the html, css, and javascript files using webpack, along with a service worker and manifest file.
+
+By following these steps, you can successfully start the project and launch it in your preferred browser.
 
 ### Using the site
 
-Navigate to the live webpage to use this simple text editor! Write your heart out knowing that your words will be preserved with the power of local storage, indexdb, and a service worker.
+To use this straightforward text editor, simply navigate to the live webpage. You can write to your heart's content, knowing that your words will be saved and secured with the help of local storage, indexdb, and a service worker.
 
-Want access to your work while offline? Click the 'install' button at the top of the page to install JATE as an app-icon on your machine
+Moreover, if you wish to access your work offline, you can click on the 'install' button located at the top of the page. Doing so will install JATE as an app-icon on your machine, enabling you to access your work anytime, anywhere, without any internet connection.
 
 ### Functionality includes:
 
-- Supports next-gen Javascript
-- Persistant data using Local Storage and IndexDB
-- Download this web app to your desktop to use anytime!
+This web application has the capability to support next-gen JavaScript, allowing you to use the latest features available. In addition, it provides persistent data storage through Local Storage and IndexDB, ensuring that your data is always saved and retrievable.
 
-![an image of a coding program with grey theme displaying a desktop app of a simple text editor titled JATE](client/src/images/jateApp.png)
+If you wish to have easy access to this web app at all times, you can download it to your desktop. Once downloaded, you can use it anytime, even when offline, without the need for an internet connection.
 
 ## Links
 
 - Repository: https://github.com/Beurre-moutarde/PWA
-- Live Page (Heroku):https://
+- Live Page (Heroku):https://pwa-justanother-editor.herokuapp.com/
