@@ -2,6 +2,7 @@
 
 
 ![](https://img.shields.io/badge/Created%20by-Christopher%20Lebreton%20-blue?style=for-the-badge)  
+![](https://img.shields.io/badge/npm%20package-IDb-blue)![](https://img.shields.io/badge/npm%20package-Express-brightgreen)
 
 
 ## Table of Contents
