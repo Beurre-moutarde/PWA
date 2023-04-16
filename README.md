@@ -37,6 +37,9 @@ This web application has the capability to support next-gen JavaScript, allowing
 
 If you wish to have easy access to this web app at all times, you can download it to your desktop. Once downloaded, you can use it anytime, even when offline, without the need for an internet connection.
 
+
+
+
 ## Links
 
 - Repository: https://github.com/Beurre-moutarde/PWA
